@@ -20,3 +20,13 @@ This project goes through the basics of creating and styling components in React
 and the list goes on.
 
 This project uses version 50 of Expo, so in the future things may look different.
+
+Documentation:
+React Native Paper: https://callstack.github.io/react-native-paper/docs/guides/getting-started
+React Native Paper Theming: https://callstack.github.io/react-native-paper/docs/guides/theming
+Gestures: https://docs.expo.dev/tutorial/gestures/
+React Native Gifted Charts: https://gifted-charts.web.app/
+Async Storage: https://react-native-async-storage.github.io/async-storage/docs/install
+Expo: https://docs.expo.dev/get-started/installation/
+Expo Icons: https://icons.expo.fyi/Index
+Data: https://revesta.net
