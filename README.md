@@ -1,7 +1,7 @@
 # React Native Tutorial | Stock Market App 
 
 
-[![Check this video out](https://github.com/JeremyPersing/stocks-react-native/blob/main/Stocks%20React%20Native%20Thumbnail.png)](https://www.youtube.com/watch?v=Sr0GjzA9iPc)
+[![Check this video out](https://github.com/JeremyPersing/stocks-react-native/blob/main/Stocks%20React%20Native%20Thumbnail.png)](https://www.youtube.com/watch?v=VWqGHUKh3bo)
 
 ## The Project
 This project goes through the basics of creating and styling components in React Native. You will learn how to take JSON data and turn that into something meaningful and pretty for your users.
